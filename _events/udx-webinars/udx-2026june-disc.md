@@ -1,6 +1,6 @@
 ---
 #Template based on https://cass.community/events/hpcbp-094-sustainable-sw
-startdate: "2026-04-07"
+startdate: "2026-06-02"
 time: "12:00 pm - 1:00 pm EDT" # Ensure that time zone is correct with respect to standard/daylight time
 #
 title: "UDX Discussion Hour: Homegrown UX"
